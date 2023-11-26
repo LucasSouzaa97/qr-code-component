@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-    content: ['./src/**/*.{html,js}'],
+    content: ['./**/*.{html,js}'],
     theme: {
         screens: {
             desktop: '1440px',
@@ -20,5 +20,5 @@ export default {
         },
         extend: {},
     },
-    plugins: ['prettier-plugin-tailwindcss'],
+    plugins: [],
 };
