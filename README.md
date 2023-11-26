@@ -21,7 +21,7 @@ This is a solution to the QR Code Component on Frontend Mentor. Frontend Mentor 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [QR Code Component](https://qr-code-component.lucdev.pro)
+- Live Site URL: [QR Code Component](https://qrcodecomponent.lucdev.pro)
 
 ## My process
 
