@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: Outfit, sans-serif;
+    src: url("src/fonts/Outfit/Outfit-VariableFont_wght.ttf")
+}
+
+@layer components {
+    .font-feature-settings-clig-off-liga-off {
+        font-feature-settings: 'clig' off, 'liga' off;
+    }
+}
